@@ -2,8 +2,8 @@ version: 1.0.{build}
 configuration: Release 
 
 build_script:
-- ps: dotnet build BookStoreAbpProject.sln
-- ps: dotnet publish "BookStoreAbpProject.sln" --configuration Release --output "./publish"
+- ps: dotnet build "src/BookStoreAbpProject.Web.Host/BookStoreAbpProject.Web.Host.csproj"
+- ps: dotnet publish "src/BookStoreAbpProject.Web.Host/BookStoreAbpProject.Web.Host.csproj" --configuration Release --output "./publish"
 
 
 artifacts:
