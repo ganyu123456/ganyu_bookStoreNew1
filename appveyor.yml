@@ -2,10 +2,10 @@ version: 1.0.{build}
 configuration: Release 
 
 build_script:
-- ps: dotnet build "BookStoreAbpProject.sln"
-- ps: dotnet publish "BookStoreAbpProject.sln" --configuration Release --output "./publish"
+- ps: dotnet build "BookStoreAbpProject.Web.Host.csproj"
+- ps: dotnet publish "BookStoreAbpProject.Web.Host.csproj" --configuration Release --output "./publish"
 
 
 artifacts:
   - path: publish\**\*  # 收集发布目录下的所有文件
-    name: HelloWorldWebApp
+    name: BookStoreAbpProject
