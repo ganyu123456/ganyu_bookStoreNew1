@@ -23647,3 +23647,28 @@ Grpc.Core.RpcException: Status(StatusCode="Unavailable", Detail="Error connectin
 2024-03-17 17:00:34.119 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0085290s
 2024-03-17 17:00:40.134 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0285365s
 2024-03-17 17:00:40.134 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0280769s
+2024-03-17 21:47:06.297 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.InstrumentStartup : Initializing ...
+2024-03-17 21:47:06.336 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2024-03-17 21:47:06.337 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.LogReportService : Loaded instrument service [SkyApm.Service.LogReportService].
+2024-03-17 21:47:06.337 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2024-03-17 21:47:06.337 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2024-03-17 21:47:06.337 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2024-03-17 21:47:06.337 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2024-03-17 21:47:06.337 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.ConnectService].
+2024-03-17 21:47:06.430 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2024-03-17 21:47:06.430 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2024-03-17 21:47:06.454 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[192.168.64.128:11800].
+2024-03-17 21:47:07.042 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Grpc.Net.Client].
+2024-03-17 21:47:07.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2024-03-17 21:47:08.239 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.RegisterService : Reported Service Instance Properties[Service=BookStoreAbpProject.Web.Host,InstanceId=192.168.32.1@8ff8c6d435bf488dbfdf18f682ba778d].
+2024-03-17 21:47:08.722 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.EntityFrameworkCore].
+2024-03-17 21:47:12.615 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 21 logs. cost: 00:00:00.2723200s
+2024-03-17 21:47:12.616 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 21 trace segment. cost: 00:00:00.2708623s
+2024-03-17 21:47:15.352 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 6 trace segment. cost: 00:00:00.0257007s
+2024-03-17 21:47:15.369 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 13 logs. cost: 00:00:00.0427094s
+2024-03-17 21:47:18.505 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 28 logs. cost: 00:00:00.1680376s
+2024-03-17 21:47:18.541 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 9 trace segment. cost: 00:00:00.2044918s
+2024-03-17 21:47:24.343 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0077975s
+2024-03-17 21:47:24.356 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0207567s
+2024-03-17 21:47:30.340 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0070449s
+2024-03-17 21:47:30.343 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0101778s
