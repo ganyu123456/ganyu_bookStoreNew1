@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\ganyu_bookstore\src\BookStoreAbpProject.Web.Host\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2024-03-17T10:48:02.3673762Z;True|2024-03-16T21:21:42.1355443+08:00;</History>
+    <History>True|2024-03-26T08:17:46.1114491Z;True|2024-03-17T18:48:02.3673762+08:00;True|2024-03-16T21:21:42.1355443+08:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

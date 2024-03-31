@@ -18037,3 +18037,308 @@
 2024-03-18 22:12:40.680 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0067051s
 2024-03-18 22:12:43.677 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0107659s
 2024-03-18 22:12:43.678 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0108785s
+2024-03-18 22:15:06.545 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.InstrumentStartup : Initializing ...
+2024-03-18 22:15:06.594 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.RegisterService : Loaded instrument service [SkyApm.Service.RegisterService].
+2024-03-18 22:15:06.596 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.LogReportService : Loaded instrument service [SkyApm.Service.LogReportService].
+2024-03-18 22:15:06.597 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Loaded instrument service [SkyApm.Service.PingService].
+2024-03-18 22:15:06.597 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.SegmentReportService : Loaded instrument service [SkyApm.Service.SegmentReportService].
+2024-03-18 22:15:06.597 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Loaded instrument service [SkyApm.Service.CLRStatsService].
+2024-03-18 22:15:06.597 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Sampling.SimpleCountSamplingInterceptor : Loaded instrument service [SkyApm.Sampling.SimpleCountSamplingInterceptor].
+2024-03-18 22:15:06.597 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectService : Loaded instrument service [SkyApm.Transport.Grpc.ConnectService].
+2024-03-18 22:15:06.656 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.AspNetCore].
+2024-03-18 22:15:06.657 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.InstrumentStartup : Started SkyAPM .NET Core Agent.
+2024-03-18 22:15:06.661 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.ConnectionManager : Connected server[192.168.64.128:11800].
+2024-03-18 22:15:07.223 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Grpc.Net.Client].
+2024-03-18 22:15:07.513 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [HttpHandlerDiagnosticListener].
+2024-03-18 22:15:07.696 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.RegisterService : Reported Service Instance Properties[Service=BookStoreAbpProject.Web.Host,InstanceId=192.168.32.1@f93061f16ab446aab09bab58c206a97c].
+2024-03-18 22:15:08.424 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Diagnostics.TracingDiagnosticProcessorObserver : Loaded diagnostic listener [Microsoft.EntityFrameworkCore].
+2024-03-18 22:15:12.689 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 32 logs. cost: 00:00:00.0773120s
+2024-03-18 22:15:12.701 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 26 trace segment. cost: 00:00:00.0918191s
+2024-03-18 22:15:15.625 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 25 logs. cost: 00:00:00.0226336s
+2024-03-18 22:15:15.635 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 7 trace segment. cost: 00:00:00.0308591s
+2024-03-18 22:15:18.629 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 5 logs. cost: 00:00:00.0251653s
+2024-03-18 22:15:18.636 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 3 trace segment. cost: 00:00:00.0319337s
+2024-03-18 22:15:24.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0029450s
+2024-03-18 22:15:24.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0091853s
+2024-03-18 22:15:30.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0045733s
+2024-03-18 22:15:30.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0045692s
+2024-03-18 22:15:33.600 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0042399s
+2024-03-18 22:15:33.600 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0043331s
+2024-03-18 22:15:36.641 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:15:36 +00:00
+2024-03-18 22:15:36.651 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 3 1 0 49M ThreadPool 32765 32767 1000 1000
+2024-03-18 22:15:39.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0077420s
+2024-03-18 22:15:39.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0077445s
+2024-03-18 22:15:45.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0059786s
+2024-03-18 22:15:45.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0170408s
+2024-03-18 22:15:48.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0029403s
+2024-03-18 22:15:48.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0038635s
+2024-03-18 22:15:54.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0025217s
+2024-03-18 22:15:54.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0030876s
+2024-03-18 22:16:00.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0033301s
+2024-03-18 22:16:00.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0057503s
+2024-03-18 22:16:03.600 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0031217s
+2024-03-18 22:16:03.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0042571s
+2024-03-18 22:16:06.615 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 52M ThreadPool 32766 32767 1000 1000
+2024-03-18 22:16:09.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0025029s
+2024-03-18 22:16:09.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0035350s
+2024-03-18 22:16:15.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0037608s
+2024-03-18 22:16:15.615 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0079839s
+2024-03-18 22:16:18.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0028643s
+2024-03-18 22:16:18.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0041339s
+2024-03-18 22:16:24.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0037786s
+2024-03-18 22:16:24.600 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0042482s
+2024-03-18 22:16:30.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0033514s
+2024-03-18 22:16:30.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0033514s
+2024-03-18 22:16:33.598 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031525s
+2024-03-18 22:16:33.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0036787s
+2024-03-18 22:16:36.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 55M ThreadPool 32761 32767 1000 1000
+2024-03-18 22:16:36.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:16:36 +00:00
+2024-03-18 22:16:39.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0043154s
+2024-03-18 22:16:39.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0051156s
+2024-03-18 22:16:45.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0032044s
+2024-03-18 22:16:45.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0040291s
+2024-03-18 22:16:48.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0046685s
+2024-03-18 22:16:48.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0058996s
+2024-03-18 22:16:54.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0042671s
+2024-03-18 22:16:54.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0048610s
+2024-03-18 22:17:00.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0030896s
+2024-03-18 22:17:00.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0030851s
+2024-03-18 22:17:03.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0042749s
+2024-03-18 22:17:03.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0042743s
+2024-03-18 22:17:06.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 57M ThreadPool 32763 32767 1000 1000
+2024-03-18 22:17:09.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0063298s
+2024-03-18 22:17:09.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0068973s
+2024-03-18 22:17:15.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0037767s
+2024-03-18 22:17:15.630 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0248785s
+2024-03-18 22:17:18.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0043600s
+2024-03-18 22:17:18.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0054105s
+2024-03-18 22:17:24.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0040976s
+2024-03-18 22:17:24.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0051489s
+2024-03-18 22:17:30.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0029958s
+2024-03-18 22:17:30.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0044613s
+2024-03-18 22:17:33.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0123140s
+2024-03-18 22:17:33.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0120080s
+2024-03-18 22:17:36.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 60M ThreadPool 32761 32767 1000 1000
+2024-03-18 22:17:36.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:17:36 +00:00
+2024-03-18 22:17:39.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0091262s
+2024-03-18 22:17:39.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0101617s
+2024-03-18 22:17:45.628 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0244538s
+2024-03-18 22:17:45.629 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0244849s
+2024-03-18 22:17:48.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0023744s
+2024-03-18 22:17:48.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0028829s
+2024-03-18 22:17:54.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0025287s
+2024-03-18 22:17:54.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0026296s
+2024-03-18 22:18:00.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0033337s
+2024-03-18 22:18:00.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0033498s
+2024-03-18 22:18:03.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0027722s
+2024-03-18 22:18:03.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0027805s
+2024-03-18 22:18:06.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 62M ThreadPool 32762 32767 1000 1000
+2024-03-18 22:18:09.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031420s
+2024-03-18 22:18:09.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0036643s
+2024-03-18 22:18:15.637 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0037484s
+2024-03-18 22:18:15.638 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0038599s
+2024-03-18 22:18:18.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0035814s
+2024-03-18 22:18:18.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0035833s
+2024-03-18 22:18:24.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031825s
+2024-03-18 22:18:24.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0031839s
+2024-03-18 22:18:30.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0032765s
+2024-03-18 22:18:30.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0042124s
+2024-03-18 22:18:33.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0074122s
+2024-03-18 22:18:33.614 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0090263s
+2024-03-18 22:18:36.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:18:36 +00:00
+2024-03-18 22:18:36.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 65M ThreadPool 32761 32767 1000 1000
+2024-03-18 22:18:39.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0056505s
+2024-03-18 22:18:39.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0057686s
+2024-03-18 22:18:45.629 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0240352s
+2024-03-18 22:18:45.629 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0240619s
+2024-03-18 22:18:48.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0036183s
+2024-03-18 22:18:48.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0037115s
+2024-03-18 22:18:54.614 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0104596s
+2024-03-18 22:18:54.624 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0177598s
+2024-03-18 22:19:00.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0033864s
+2024-03-18 22:19:00.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0034815s
+2024-03-18 22:19:03.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0033914s
+2024-03-18 22:19:03.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0033939s
+2024-03-18 22:19:06.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 67M ThreadPool 32759 32767 1000 1000
+2024-03-18 22:19:09.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0039181s
+2024-03-18 22:19:09.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0083184s
+2024-03-18 22:19:15.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0025453s
+2024-03-18 22:19:15.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031326s
+2024-03-18 22:19:18.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0032513s
+2024-03-18 22:19:18.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0038602s
+2024-03-18 22:19:24.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0082116s
+2024-03-18 22:19:24.616 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0137046s
+2024-03-18 22:19:30.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0052588s
+2024-03-18 22:19:30.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0057018s
+2024-03-18 22:19:33.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0045900s
+2024-03-18 22:19:33.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0045914s
+2024-03-18 22:19:36.629 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:19:36 +00:00
+2024-03-18 22:19:36.645 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 70M ThreadPool 32763 32767 1000 1000
+2024-03-18 22:19:39.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0093184s
+2024-03-18 22:19:39.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0093298s
+2024-03-18 22:19:45.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0032904s
+2024-03-18 22:19:45.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0034607s
+2024-03-18 22:19:48.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0057858s
+2024-03-18 22:19:48.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0063231s
+2024-03-18 22:19:54.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0041473s
+2024-03-18 22:19:54.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0068033s
+2024-03-18 22:20:00.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0036884s
+2024-03-18 22:20:00.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0042710s
+2024-03-18 22:20:03.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0083811s
+2024-03-18 22:20:03.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0084632s
+2024-03-18 22:20:06.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 73M ThreadPool 32760 32767 1000 1000
+2024-03-18 22:20:09.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0034790s
+2024-03-18 22:20:09.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0034879s
+2024-03-18 22:20:15.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0052546s
+2024-03-18 22:20:15.639 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0373978s
+2024-03-18 22:20:18.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0037742s
+2024-03-18 22:20:18.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0054413s
+2024-03-18 22:20:24.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0024385s
+2024-03-18 22:20:24.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0037769s
+2024-03-18 22:20:30.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0032987s
+2024-03-18 22:20:30.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0033617s
+2024-03-18 22:20:33.616 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0095423s
+2024-03-18 22:20:33.616 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0104241s
+2024-03-18 22:20:36.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:20:36 +00:00
+2024-03-18 22:20:36.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 75M ThreadPool 32760 32767 1000 1000
+2024-03-18 22:20:39.598 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0045506s
+2024-03-18 22:20:39.598 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0047797s
+2024-03-18 22:20:45.601 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0027608s
+2024-03-18 22:20:45.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0035101s
+2024-03-18 22:20:48.596 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031453s
+2024-03-18 22:20:48.596 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0031595s
+2024-03-18 22:20:54.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0033750s
+2024-03-18 22:20:54.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0042127s
+2024-03-18 22:21:00.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0041115s
+2024-03-18 22:21:00.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0045794s
+2024-03-18 22:21:03.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0040857s
+2024-03-18 22:21:03.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0048119s
+2024-03-18 22:21:06.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 78M ThreadPool 32761 32767 1000 1000
+2024-03-18 22:21:09.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0033639s
+2024-03-18 22:21:09.618 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0123209s
+2024-03-18 22:21:15.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0032360s
+2024-03-18 22:21:15.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0039486s
+2024-03-18 22:21:18.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0041220s
+2024-03-18 22:21:18.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0041234s
+2024-03-18 22:21:24.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0043020s
+2024-03-18 22:21:24.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0107670s
+2024-03-18 22:21:30.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0026876s
+2024-03-18 22:21:30.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0042918s
+2024-03-18 22:21:33.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0029342s
+2024-03-18 22:21:33.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0033167s
+2024-03-18 22:21:36.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 80M ThreadPool 32761 32767 1000 1000
+2024-03-18 22:21:36.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:21:36 +00:00
+2024-03-18 22:21:39.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0032884s
+2024-03-18 22:21:39.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0038779s
+2024-03-18 22:21:45.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031223s
+2024-03-18 22:21:45.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0037056s
+2024-03-18 22:21:48.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0038812s
+2024-03-18 22:21:48.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0039750s
+2024-03-18 22:21:54.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0029478s
+2024-03-18 22:21:54.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0034638s
+2024-03-18 22:22:00.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0047473s
+2024-03-18 22:22:00.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0047564s
+2024-03-18 22:22:03.647 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0232655s
+2024-03-18 22:22:03.648 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0237271s
+2024-03-18 22:22:06.600 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 83M ThreadPool 32761 32767 1000 1000
+2024-03-18 22:22:09.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0032130s
+2024-03-18 22:22:09.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0032613s
+2024-03-18 22:22:15.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0035592s
+2024-03-18 22:22:15.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0035570s
+2024-03-18 22:22:18.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0044471s
+2024-03-18 22:22:18.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0044058s
+2024-03-18 22:22:24.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0032590s
+2024-03-18 22:22:24.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0061539s
+2024-03-18 22:22:30.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031295s
+2024-03-18 22:22:30.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0037639s
+2024-03-18 22:22:33.616 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0139784s
+2024-03-18 22:22:33.616 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0147919s
+2024-03-18 22:22:36.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 85M ThreadPool 32760 32767 1000 1000
+2024-03-18 22:22:36.599 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:22:36 +00:00
+2024-03-18 22:22:39.628 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0252416s
+2024-03-18 22:22:39.628 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0252893s
+2024-03-18 22:22:45.621 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0151484s
+2024-03-18 22:22:45.621 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0151320s
+2024-03-18 22:22:48.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0032188s
+2024-03-18 22:22:48.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0032943s
+2024-03-18 22:22:54.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0023545s
+2024-03-18 22:22:54.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031170s
+2024-03-18 22:23:00.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0035853s
+2024-03-18 22:23:00.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0042807s
+2024-03-18 22:23:03.600 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0032860s
+2024-03-18 22:23:03.600 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0032990s
+2024-03-18 22:23:06.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 88M ThreadPool 32763 32767 1000 1000
+2024-03-18 22:23:09.607 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0028446s
+2024-03-18 22:23:09.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0035925s
+2024-03-18 22:23:15.597 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0037564s
+2024-03-18 22:23:15.598 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0046424s
+2024-03-18 22:23:18.614 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0113234s
+2024-03-18 22:23:18.614 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0113983s
+2024-03-18 22:23:24.597 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0027076s
+2024-03-18 22:23:24.597 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0027073s
+2024-03-18 22:23:30.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0053101s
+2024-03-18 22:23:30.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0059595s
+2024-03-18 22:23:33.644 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0392652s
+2024-03-18 22:23:33.644 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0395912s
+2024-03-18 22:23:36.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:23:36 +00:00
+2024-03-18 22:23:36.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 90M ThreadPool 32762 32767 1000 1000
+2024-03-18 22:23:39.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0035359s
+2024-03-18 22:23:39.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0042521s
+2024-03-18 22:23:45.595 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0031919s
+2024-03-18 22:23:45.596 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0039986s
+2024-03-18 22:23:48.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0026610s
+2024-03-18 22:23:48.604 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0026649s
+2024-03-18 22:23:54.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0195889s
+2024-03-18 22:23:54.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0197157s
+2024-03-18 22:24:00.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0038208s
+2024-03-18 22:24:00.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0050227s
+2024-03-18 22:24:06.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0052380s
+2024-03-18 22:24:06.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 93M ThreadPool 32763 32767 1000 1000
+2024-03-18 22:24:06.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0058965s
+2024-03-18 22:24:09.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0031425s
+2024-03-18 22:24:09.603 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0037295s
+2024-03-18 22:24:15.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0029203s
+2024-03-18 22:24:15.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0035131s
+2024-03-18 22:24:21.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0043567s
+2024-03-18 22:24:21.606 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0043534s
+2024-03-18 22:24:24.594 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0024205s
+2024-03-18 22:24:24.595 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0033478s
+2024-03-18 22:24:30.630 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0181365s
+2024-03-18 22:24:30.650 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0229493s
+2024-03-18 22:24:36.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0043370s
+2024-03-18 22:24:36.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 95M ThreadPool 32763 32767 1000 1000
+2024-03-18 22:24:36.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:24:36 +00:00
+2024-03-18 22:24:36.644 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0388528s
+2024-03-18 22:24:39.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0023137s
+2024-03-18 22:24:39.605 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0028710s
+2024-03-18 22:24:45.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0027853s
+2024-03-18 22:24:45.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0027991s
+2024-03-18 22:24:51.614 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0102274s
+2024-03-18 22:24:51.614 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0099561s
+2024-03-18 22:24:54.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0057459s
+2024-03-18 22:24:54.620 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0140491s
+2024-03-18 22:25:00.612 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0097681s
+2024-03-18 22:25:00.615 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0124849s
+2024-03-18 22:25:06.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0066873s
+2024-03-18 22:25:06.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 98M ThreadPool 32763 32767 1000 1000
+2024-03-18 22:25:06.613 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0050638s
+2024-03-18 22:25:09.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0039181s
+2024-03-18 22:25:09.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0039378s
+2024-03-18 22:25:15.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0061805s
+2024-03-18 22:25:15.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0062036s
+2024-03-18 22:25:21.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0048904s
+2024-03-18 22:25:21.611 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0049531s
+2024-03-18 22:25:24.635 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0299734s
+2024-03-18 22:25:24.635 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0300708s
+2024-03-18 22:25:30.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0033875s
+2024-03-18 22:25:30.602 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0033839s
+2024-03-18 22:25:36.621 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.PingService : Ping server @2024/3/18 14:25:36 +00:00
+2024-03-18 22:25:36.621 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Service.CLRStatsService : Report CLR Stats. CPU UsagePercent 0 GenCollectCount 0 0 0 100M ThreadPool 32763 32767 1000 1000
+2024-03-18 22:25:36.625 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0122125s
+2024-03-18 22:25:36.626 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0108951s
+2024-03-18 22:25:39.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0032016s
+2024-03-18 22:25:39.609 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0032868s
+2024-03-18 22:25:45.654 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0494753s
+2024-03-18 22:25:45.654 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0497221s
+2024-03-18 22:25:51.608 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.V8.SegmentReporter : Report 1 trace segment. cost: 00:00:00.0027009s
+2024-03-18 22:25:51.610 +08:00 [BookStoreAbpProject.Web.Host] [Information] SkyApm.Transport.Grpc.SegmentReporter : Report 1 logs. cost: 00:00:00.0039012s

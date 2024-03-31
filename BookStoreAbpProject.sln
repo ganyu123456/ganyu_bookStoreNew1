@@ -17,8 +17,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStoreAbpProject.Web.Cor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStoreAbpProject.EntityFrameworkCore", "src\BookStoreAbpProject.EntityFrameworkCore\BookStoreAbpProject.EntityFrameworkCore.csproj", "{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "bootstore", "bookstore\bootstore.esproj", "{D431B508-D95A-4467-89DD-08C0879C8301}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,12 +47,6 @@ Global
 		{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0580562-F8F2-4EBB-B07A-ABFC6F2C314F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D431B508-D95A-4467-89DD-08C0879C8301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D431B508-D95A-4467-89DD-08C0879C8301}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D431B508-D95A-4467-89DD-08C0879C8301}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{D431B508-D95A-4467-89DD-08C0879C8301}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D431B508-D95A-4467-89DD-08C0879C8301}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D431B508-D95A-4467-89DD-08C0879C8301}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

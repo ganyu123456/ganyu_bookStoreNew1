@@ -5,6 +5,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <ActiveDebugProfile>BookStoreAbpProject.Web.Host</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\Administrator\Desktop\BookStoreAbpProject-master\BookStoreAbpProject-master\ganyu_bookstore\src\BookStoreAbpProject.Web.Host\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>FolderProfile</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
