@@ -13,4 +13,3 @@
 
 $$\sin \alpha + \sin \beta =2 \sin \frac{\alpha + \beta}{2}\cos \frac{\alpha - \beta}{2}$$
 
-$$\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{n}}}}}$$
