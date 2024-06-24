@@ -12,4 +12,4 @@
 版权所有 © 2023 我的名字。
 
 $$\sin \alpha + \sin \beta =2 \sin \frac{\alpha + \beta}{2}\cos \frac{\alpha - \beta}{2}$$
-\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{n}}}}}
+$$\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{\sum_{i=1}^{n}}}}}$$
